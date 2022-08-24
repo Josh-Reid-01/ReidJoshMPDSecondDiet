@@ -1,6 +1,10 @@
 package org.me.gcu.labstuff.reidjoshmpdseconddiet;
 
+//Josh Reid S2129663
+
 import java.util.Objects;
+
+
 
 public class Campus {
     private int id;
